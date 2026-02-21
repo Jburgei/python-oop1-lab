@@ -1,3 +1,13 @@
+## My Implementation
+
+This lab models a bookstore using Object-Oriented Programming principles.
+
+Classes created:
+- Book (title, page_count, turn_page())
+- Coffee (size, price, tip())
+
+All functionality was implemented and all tests pass.
+
 # Object Oriented Programming Lab - Bookstore 
 
 This scenario should encompass all of the topics provided in the module. Now that you’ve delved into creating a new class in Python it is now time to practice this concept.
